@@ -1,6 +1,7 @@
 <template>
   <v-card
     class="my-12"
+    elevation="15"
   >
     <v-img
       height="200px"
@@ -37,7 +38,7 @@
         {{ character.name }} was born in {{ character.yearOfBirth }}. {{ getPronoun() }} wand is
         made of {{ character.wand.wood }}, with a core of a {{ character.wand.core }} and a length
         of {{ character.wand.length }} inches. {{ getPronoun() }} patronus is a
-        {{ character.patronus }}
+        {{ character.patronus }}.
       </div>
     </v-card-text>
   </v-card>
