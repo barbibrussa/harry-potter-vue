@@ -1,6 +1,11 @@
 # Harry Potter UI
-
 Proyecto de interfaz web sobre Harry Potter con Vue y Vuetify.
+
+## Captura de pantalla
+![Captura de pantalla](/home/barbibrussa/Programacion/Vue/harry-potter-vue/src/assets/screenshot.png)
+
+## Bugs conocidos
+El código posee errores en la descripción de los personajes que está en proceso de mejora.
 
 ## Project setup
 ```
